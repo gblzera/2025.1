@@ -26,6 +26,8 @@ Existem vários estilos de Paradigmas, mas os 5 principais são :
         funções puras: sempre retornam o mesmo resultado para os msm argumentos
         Recursão: subs. loops trad.
 
+FOR LISP : https://rodrigorgs.github.io/mata56-20152/lisp
+
 4.Paradigma Lógico:
     Baseado em relações logicas e interf. em vez de instruções explicitas
     Ex de linguagens: Prolog
