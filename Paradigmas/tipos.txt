@@ -1,0 +1,42 @@
+Paradigmas de programação são estilos ou abordagens na construção e org do código.
+
+Existem vários estilos de Paradigmas, mas os 5 principais são :
+
+1.Paradigma Imperativo:
+    Baseia na ideia de dar instruções explicitas ao computador para mod o programação
+    Ex de linguagens: C, Java, Python (procedural)
+    Subparadigmas:
+        Procedural : organiza em funções/procedimentos 
+        Estruturado : Uso de loops, condições, blocos definidos
+
+2.Paradigma OOP :
+    Organiza o codigo em objs. que são instancias de classes. Cada obj. tem atributos e metodos
+    Ex de linguagens: Java, Python, C++, JS
+    principais conceitos:
+        Encapsulamento,
+        Herança,
+        Polimorfismo,
+        Abstração
+
+3.Paradigma Funcional:
+    Baseado em funções puras, sem mutabilidade e de alta ordem (funções dentro de funções)
+    Ex de linguagens: Haskell, Lisp, Elixir, JS
+    principais conceitos:
+        Imutabilidade: variaveis nao mudam de valor pós criação
+        funções puras: sempre retornam o mesmo resultado para os msm argumentos
+        Recursão: subs. loops trad.
+
+4.Paradigma Lógico:
+    Baseado em relações logicas e interf. em vez de instruções explicitas
+    Ex de linguagens: Prolog
+    principais conceitos:
+        Declaração de regras e fatos: relações definidas entre elementos
+        Interferencia auto: o interpretador deduz as infos. com base nas regras
+
+5.Paradigma Concorrente e Paralelo:
+    Permite a exe. de multiplas tarefas ao same time
+    Ex de linguagens: Java, Go, Erlang, Python
+    principais conceitos:
+        Threads: exe simultanea do msm processo
+        processos: exe separada no SO
+        comunicação entre processos: compart. de recursos
