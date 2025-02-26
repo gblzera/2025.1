@@ -1,0 +1,156 @@
+================================================================
+Assembly (hello.asm)
+
+section .data
+    msg db "Hello, World!", 0
+
+section .text
+    global _start
+
+_start:
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg
+    mov edx, 13
+    int 0x80
+
+    mov eax, 1
+    xor ebx, ebx
+    int 0x80
+================================================================
+Fortran (hello.f90)
+
+program hello
+    print *, "Hello, World!"
+end program hello
+================================================================
+Lisp (hello.lisp)
+
+(print "Hello, World!")
+================================================================
+COBOL (hello.cbl)
+
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HelloWorld.
+PROCEDURE DIVISION.
+    DISPLAY "Hello, World!".
+    STOP RUN.
+================================================================
+C (hello.c)
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+================================================================
+Pascal (hello.pas)
+
+program HelloWorld;
+begin
+    WriteLn('Hello, World!');
+end.
+================================================================
+Prolog (hello.pl)
+
+:- initialization(main).
+
+main :-
+    write('Hello, World!'), nl.
+================================================================
+C++ (hello.cpp)
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+================================================================
+Objective-C (hello.m)
+
+#import <Foundation/Foundation.h>
+
+int main() {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
+================================================================
+Perl (hello.pl)
+
+print "Hello, World!\n";
+================================================================
+Python (hello.py)
+
+print("Hello, World!")
+================================================================
+Java (HelloWorld.java)
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+================================================================
+JavaScript (hello.js)
+
+console.log("Hello, World!");
+================================================================
+PHP (hello.php)
+
+<?php
+echo "Hello, World!";
+?>
+================================================================
+C# (HelloWorld.cs)
+
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
+    }
+}
+================================================================
+Scala (hello.scala)
+
+object HelloWorld {
+    def main(args: Array[String]): Unit = {
+        println("Hello, World!")
+    }
+}
+================================================================
+Go (hello.go)
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+================================================================
+Rust (hello.rs)
+
+fn main() {
+    println!("Hello, World!");
+}
+================================================================
+Swift (hello.swift)
+
+print("Hello, World!")
+================================================================
+TypeScript (hello.ts)
+
+console.log("Hello, World!");
+================================================================
+Julia (hello.jl)
+
+println("Hello, World!")
+================================================================
+Deep Learning/IA (hello_ai.py)
+
+print("Deep Learning!")

@@ -1,0 +1,40 @@
+Anos 1950-1960: O Nascimento da Programação
+
+    Assembly (década de 1950): Código de máquina humanamente legível, essencial para programação de baixo nível.
+    Fortran (1957): Criado pela IBM, pioneiro na computação científica.
+    Lisp (1958): Introduziu conceitos como listas encadeadas e recursão, influenciando a IA.
+    COBOL (1959): Voltado para negócios e ainda em uso em sistemas bancários.
+
+Anos 1970: Eficiência e Organização
+
+    C (1972): Desenvolvido para Unix, tornou-se a base para várias linguagens futuras.
+    Pascal (1970): Voltado para ensino e desenvolvimento estruturado.
+    Prolog (1972): Introduz lógica de programação, influenciando IA.
+
+Anos 1980: Onda da Programação Orientada a Objetos (POO)
+
+    C++ (1983): Expande C com POO, tornando-se popular em desenvolvimento de sistemas.
+    Objective-C (1984): Base para o macOS e o iOS antes da chegada do Swift.
+    Perl (1987): Poderosa para manipulação de texto e scripting.
+
+Anos 1990: Web e Interfaces Gráficas
+
+    Python (1991): Foco em legibilidade e produtividade, amplamente usado hoje.
+    Java (1995): "Write once, run anywhere", essencial para aplicações empresariais e mobile.
+    JavaScript (1995): Criado para a web, tornou-se onipresente no frontend e backend.
+    PHP (1995): Popular para desenvolvimento web dinâmico.
+    Ruby (1995): Criado para produtividade, ganhou notoriedade com Ruby on Rails.
+
+Anos 2000: Expansão e Otimização
+
+    C# (2000): Resposta da Microsoft ao Java, essencial para aplicações Windows.
+    Scala (2003): Combina funcional e POO, influenciando frameworks modernos.
+    Go (2009): Criado pelo Google, foca em eficiência e escalabilidade.
+
+Anos 2010-2020: Performance, Simplicidade e Machine Learning
+
+    Rust (2010): Foco em segurança e performance, excelente para sistemas críticos.
+    Swift (2014): Criado pela Apple para substituir o Objective-C.
+    Kotlin (2016): Alternativa moderna ao Java no Android.
+    TypeScript (2012): Expande o JavaScript com tipagem estática.
+    Julia (2012): Crescente no mundo científico, voltado para alto desempenho.
